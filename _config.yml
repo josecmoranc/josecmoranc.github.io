@@ -44,9 +44,8 @@ baseurl: "/josecmoranc.github.io" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: wpwalters
-    github: patwalters
-    linkedin: wpwalters
+    github: josecmoranc
+#    linkedin: josecmoranc
 
 # Set this to true to get LaTeX math equation support
 use_math: 

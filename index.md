@@ -58,6 +58,7 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
  ![POWTECH-Charging](https://ars.els-cdn.com/content/image/1-s2.0-S0032591023003625-ga1_lrg.jpg)
 
 * **Others (numerical)**
+  - In this work, we intended to explore the economical performance of a small-scale wind farm for residential clients. The idea was to bring a quantitative assessment of the convenience of such projects to guide the public policy (taking increasingly and big popularity) in renewable energy for Chile. See [this paper](https://doi.org/10.1016/j.enconman.2017.02.062) for further details.
 
 ## 2. Numerical tools
 

@@ -27,4 +27,4 @@ Numerical codes for measurements, post-processing experimental data, and differe
 ![TDMA-measurements](https://user-images.githubusercontent.com/62391931/229002061-9c3ec45d-a4f5-4414-8076-6cedfea41ca8.png)
 
 * **DMA-Scan:** This code allows controlling a single DMA, and its corresponding high-voltage unit using a DAQ for scan measurements of nanoparticle size. This code includes GUI to introduce parameters and run the experiments. This code was mainly developed by Dr. Tomoya Tamadate but I have also contributed to its development. It is available through the following [GitHub repository]([https://github.com/Aerosol-Lab/TDMA_measurements](https://github.com/Aerosol-Lab/DMAscan)).
-* ![DMA-Scan](https://user-images.githubusercontent.com/75816343/204118211-67cc4e74-2c9d-43b5-9d55-788531ff42e8.png)
+![DMA-Scan](https://user-images.githubusercontent.com/75816343/204118211-67cc4e74-2c9d-43b5-9d55-788531ff42e8.png)

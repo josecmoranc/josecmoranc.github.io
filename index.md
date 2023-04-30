@@ -29,12 +29,16 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
   - One fundamental question regarding flame-made particles formation is related to the unitary sticking probability of particles upon collisions which has been questioned in the literature. I have introduced a potential energy criterion to explain the transition from reaction-limited (sticking probability <<1) to diffusion-limited (sticking probability =1) nanoparticle coagulation regime at high temperatures. Particularly, I focused on a new approach to determine the rebound probability for fractal-like agglomerate collisions. This is the only work in the literature taking the van der Waals and electrostatic interactions into account in DEM simulations of nanoparticles formation under flame conditions. This is also the only work considering the evolution of soot maturity (here mainly manifested through a change in chemical composition and bulk density) into the coagulation kinetics.
 ![Carbon-sticking](https://ars.els-cdn.com/content/image/1-s2.0-S0008622321006722-ga1_lrg.jpg)
 
-* **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
   - I have conducted line-of-sight attenuation (LOSA) measurements of soot volume fraction to decide on the particle sampling points in the flame. Once coworkers and I decided on those points, I conducted the thermophoretic sampling experiments and analyzed the data for comparison with the light-induced incandescence (LII) technique (mainly carried out by coworkers). I considerably improved the accuracy of the thermophoretic sampling technique based on LOSA technique to monitor the sampling in-situ. This is explained in detail in [this presentation](https://doi.org/10.13140/RG.2.2.10340.94087). See [this paper](https://doi.org/10.1016/j.fuel.2020.117030) for further details.
 ![Screenshot from 2023-04-30 01-04-47](https://user-images.githubusercontent.com/62391931/235338451-495f1390-fa0f-4c84-9880-37d929d33a8b.png)
+
   - I have analyzed a large database of flame-made particle transmission electron icroscopy (TEM) images to obtain morphological parameters of soot particles including their gyration diameter, number of monomers, projected area, among others. Here we studied three different fuels namely ethylene, propane and butane under different oxygen index conditions. See [this paper](https://pubs.acs.org/doi/10.1021/acs.energyfuels.8b01301) for further details.
+ ![Screenshot from 2023-04-30 01-21-10](https://user-images.githubusercontent.com/62391931/235338940-d9f67d55-d4d0-40e2-842d-65c4d198fee3.png)
+ 
   - I conducted the experimental measurements of multi-angle light-scattering jointly with the first author. I also developed the codes and post-processed the raw data including the deconvolution of measurements to obtain radially-resolved data. In this work we have conducted a highly spatially-resolved description of particle properties including their gyration diameter (the main property measured) as a function of the height above the buerner and at different radial positions.
 ![Screenshot from 2023-04-30 01-18-13](https://user-images.githubusercontent.com/62391931/235338868-fc47ec94-3cc9-474f-b691-2f1f94bfc07e.png)
+
+* **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
 * **Aerosol metrology (experimental)**
 * **Others (numerical)**
 

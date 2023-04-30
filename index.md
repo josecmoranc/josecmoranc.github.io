@@ -66,6 +66,7 @@ Since April 2022 I have been Post-doc Associate at Prof. Chris [Hogan's Laborato
  ![Screenshot from 2023-04-30 02-22-01](https://user-images.githubusercontent.com/62391931/235341009-18402e52-e999-40cf-a3df-a76daebb795a.png)
 
 ## 2. Numerical tools
+Numerical codes for measurements, post-processing experimental data, and different numerical simulations are provided. The latter include population balance simulations of aerosol coagulation, aerosol particle charging, fractal-like agglomerates, Monte Carlo DEM simulations, and Langevin Dynamics are provided in the [following page](./numerical-codes.html).
 
 ## 3. Teaching and Tutorials
 

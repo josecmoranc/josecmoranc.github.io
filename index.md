@@ -72,6 +72,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 I would like to share teaching material related to aerosol science. For the moment I am sharing a few video-tutorials related to aerosol metrology through the [following page](./teaching-tutorials.html).
 
 ## 4. Scientific presentations
+Rather than only providing a list of presentations I want here to share some pdf versions and videos for some of these presentations for the people interested in my work. Personally, I like to see presentations prior to reading long papers because they a big-picture on a subject and summarize the content. Therefore, my presentations ara available in the [following page](./presentations.html).
 
 ## 5. Outreach
 

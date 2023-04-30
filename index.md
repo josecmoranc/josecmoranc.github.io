@@ -13,11 +13,11 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
  ![Screenshot from 2023-04-30 00-22-04](https://user-images.githubusercontent.com/62391931/235337088-66edb6ae-710d-426f-93f3-3df37993ed35.png)
 
 * **New tools to simulate agglomerates and agglomeration (numerical)**
-* Simulating flame-made particle formation (numerical)
-* Characterization of flame-made particles (experimental)
-* Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)
-* Aerosol metrology (experimental)
-* Others (numerical)
+* **Simulating flame-made particle formation (numerical)**
+* **Characterization of flame-made particles (experimental)**
+* **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
+* **Aerosol metrology (experimental)**
+* **Others (numerical)**
 
 # 2. Numerical tools
 

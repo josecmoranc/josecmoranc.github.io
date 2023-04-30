@@ -37,8 +37,11 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
  
   - Coworkers and I have introduced a horizontal plana multi-angle light-scattering (HPALS) approach for measuring flame-made particle properties in-situ in the flame. We used a horizontal plane to avoid any volume-of-measurement bias in the data. I conducted the experimental measurements jointly with the first author and also developed the codes and post-processed the raw data including the deconvolution of measurements to obtain radially-resolved data. In this work we have conducted a highly spatially-resolved description of particle properties including their gyration diameter (the main property measured) as a function of the height above the buerner and at different radial positions. See [this paper](https://doi.org/10.1016/j.combustflame.2021.111539) for further details.
 ![Screenshot from 2023-04-30 01-18-13](https://user-images.githubusercontent.com/62391931/235338868-fc47ec94-3cc9-474f-b691-2f1f94bfc07e.png)
+  - Coworkers and I have measured in-situ the evolution of soot particle maturity (characterized by the power-law exponent of the E(m) as a function of the wavelength) by combining LOSA and emission measurements at four different wavelengths (500, 532, 660 and 810 nm). Thanks to the accurate measurements conducted at the EC2G group (mainly by coworkers) we were able to reveal a map of soot maturity in the flame. In this paper, we made an effort to review different methods for soot maturity characterization as shown in the figure below. See [this paper](https://doi.org/10.1016/j.combustflame.2020.12.049) for further details.
+ ![Screenshot from 2023-04-30 01-30-46](https://user-images.githubusercontent.com/62391931/235339216-8562a1eb-3734-4a50-a90b-029c8ff74990.png)
 
 * **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
+- 
 * **Aerosol metrology (experimental)**
 * **Others (numerical)**
 

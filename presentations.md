@@ -14,13 +14,17 @@ This site is made to share pdf files of presentations I have done during my care
 ## 2. National conferences
 
 * [1] Morán, J., Fuentes, A., Liu, F., & Yon, J. “FracVAL: An algorithm for the simulation of fractal-like aggregates of nanoparticles and subsequent numerical TEM images”. 1st FRANCO-AMSUD Energy and Environment Meeting. Marseille. March 2019. The pdf is [available here](https://doi.org/10.13140/RG.2.2.34701.59368).
+![Screenshot from 2023-04-30 18-34-46](https://user-images.githubusercontent.com/62391931/235381407-a4c76ae1-eb2a-44ee-8e49-0ebe0f41309f.png)
 * [2] Morán, J., Yon, J., Liu, F., & Fuentes, A. “Thermophoretic sampling of soot in a laminar coflow diffusion flame”. GDR Suie sur la « Métrologie des suies ». Paris. July 2019. The pdf is [available here](https://doi.org/10.13140/RG.2.2.10340.94087).
+![Screenshot from 2023-04-30 18-40-50](https://user-images.githubusercontent.com/62391931/235381441-d25a208c-f9c2-48ac-bdc1-eea1349ee1fe.png)
 * [3] Morán, J., Yon, J., & Poux, A. “Improving Monte Carlo simulations for an accurate modeling of soot aggregation”. Réunion plénière du GDR Suie. Marseille. October 2019. The pdf is [available here](https://doi.org/10.13140/RG.2.2.16585.90723).
+![Screenshot from 2023-04-30 18-41-56](https://user-images.githubusercontent.com/62391931/235381485-2756bd40-8724-4910-a9e1-cb4f5d93ca50.png)
 * [4] Morán, J., Yon, J., & Poux, A. “The properties of self-preserving size distribution of soot aggregates”. Congrès Français sur les Aérosols – CFA. Paris. January 2020.
 * [5] Morán, J., Yon, J., and Poux, A. “Numerical simulations of soot particles aggregation and surface growth in a premixed flame”. First JDD du GDR Suie. December 2020. Paris, France (On-line).
 * [6] *Morán, J., Yon, J., and Poux, A. “The simultaneous aggregation and surface growth of soot particles formed in an ethylene laminar premixed flame”. Congrès Français sur les Aérosols - CFA. January 2021. Paris, France (On-line).
 * [7] Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, A., Gallen, L., Riber, E., and Yon, J. “Coupling Macroscale and Nanoscale Simulations of Soot Produced in a Diffusion Flame: Towards a More Realistic Simulation of their Morphologies”. Réunion plénière du GDR Suie. Lyon. November 2021.
 * [8] Morán, J., “Collision kernels of suspended particles from the Langevin equation: Theoretical modeling and Numerical simulations”. XXIII Chilean Symposium in Physics, November 2022. Valparaiso, Chile. The pdf is [available here](https://doi.org/10.13140/RG.2.2.28226.66248).
+![Screenshot from 2023-04-30 18-42-40](https://user-images.githubusercontent.com/62391931/235381517-b655e5cf-1ce8-43a3-a6dc-c4502ba006bf.png)
 * [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France.
 
 ## 3. Seminars

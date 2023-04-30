@@ -20,6 +20,8 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
    - **MCAC:** The Monte Carlo Aggregation Code is a discrete element modeling (DEM) approach to simulate nanoparticle coagulation. I discovered an optimized way to solve the Langevin equation, which is analogous to the DSMC used to solve the Boltzmann equation used in fluid mechanics, and validated the method theoretically based on a description of particle dynamics as random walks derived from a binomial statistical approach. See [this paper](https://doi.org/10.1016/j.jcis.2020.02.039) for further details. This code is avaialable through [CORIA-CFD GitHub](https://gitlab.coria-cfd.fr/MCAC/MCAC).
 ![Screenshot from 2023-04-30 00-42-53](https://user-images.githubusercontent.com/62391931/235337656-83690d7d-fabf-458f-a73c-2eb84ee97dea.png)
 * **Simulating flame-made particle formation (numerical)**
+  - I have explained the overlapping of primary particles formed in flames. Indeed, a long-standing question for soot formation in flames is if the overlapping of primary particles is linked to sintering or surface growth. I proposed the latter as the explanation. See [this paper](https://doi.org/10.1016/j.jaerosci.2020.105690) for further details.
+![JAS-surface growth](https://ars.els-cdn.com/content/image/1-s2.0-S0021850220301750-fx1_lrg.jpg)
 * **Characterization of flame-made particles (experimental)**
 * **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
 * **Aerosol metrology (experimental)**

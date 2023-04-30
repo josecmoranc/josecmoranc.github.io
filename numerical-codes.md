@@ -19,3 +19,8 @@ Numerical codes for measurements, post-processing experimental data, and differe
 * **TDMA measurements:** This code allows controlling 2 DMA's (differential mobility analyzer), their respective HV (high-voltage) units, and a CPC (condensation particle counter) for conducting TDMA (tandem DMA) measurements. This code includes GUI to introduce parameters and run the experiments. This code is available through the following [GitHub repository](https://github.com/Aerosol-Lab/TDMA_measurements).
 
 ## 3. Post-processing experimental data
+* **Onedimensional DMA:** (Python) This code is used for post-processing (deconvolution) single differential mobility analyzer (DMA) scan measurements for particle sizng. This code is available through the following  [GitHub repository](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion).
+* 
+* **Bidimensional TDMA:** (Python) This code is used for post-processing (deconvolution) tandem differential mobility analyzer (TDMA) measurements of nanoparticle size and electric charge distributions. This code is available through the following  [GitHub repository](https://github.com/Aerosol-Lab/Bidimensional_TDMA_inversion).
+* 
+* **Bidimensional DMA-APS:** (Python) This code is used for post-processing (deconvolution) differential mobility analyzer (DMA) in tandem configuration with an aerodynamic particle spectrometer (APS) measurements of micrometer sized aerosol particle size and electric charge distributions. This code is available through the following  [GitHub repository](https://github.com/Aerosol-Lab/Bidimensional_DMA_APS_inversion).

@@ -15,6 +15,8 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
  ![Screenshot from 2023-04-30 00-22-04](https://user-images.githubusercontent.com/62391931/235337088-66edb6ae-710d-426f-93f3-3df37993ed35.png)
 
 * **New tools to simulate agglomerates and agglomeration (numerical)**
+*   - **FracVAL:** It is the only code able to take the polydispersity of primary particles into account in a rigorous way for a wide range of fractal parameters. It has been highly appreciated by different research groups around the world and the code has been used for particle-light interaction, particle hydrodynamics, morphology, and particle technology applications. I am excited to introduce the new version of this code including raspberry-like agglomerates and a self-avoiding random walk model for protein morphology. It will also include a module for numerical TEM image generation as I explain here. In the same article, I introduced a volume-based pair correlation function to describe the morphology of agglomer- ates of nanoparticles. This method was adapted to more complex aggregates during my PhD thesis. This method has also been used by researchers interested in the morphology of liquid atomization particles (see the citations of FracVAL paper).
+![Screenshot from 2023-04-30 00-33-31](https://user-images.githubusercontent.com/62391931/235337377-ad89d38c-57f2-4cd7-8382-0fbe6ae179de.png)
 * **Simulating flame-made particle formation (numerical)**
 * **Characterization of flame-made particles (experimental)**
 * **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**

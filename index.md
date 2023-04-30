@@ -41,7 +41,9 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
  ![Screenshot from 2023-04-30 01-30-46](https://user-images.githubusercontent.com/62391931/235339216-8562a1eb-3734-4a50-a90b-029c8ff74990.png)
 
 * **Fractal-like agglomerate morphology and radiative properties (theoretical and numerical)**
-- 
+- I have contributed to the development of a generalized model for agglomerates of nanoparticles morphology that explains the transition of the structure factor from a single primary particle to one of a fractal-like agglomerate. Jointly with the first author, we developed the equations of this work, where I particularly contributed to characterizing the pair correlation function of primary particles and I conducted the numerical simulations for comparison and using the simulations of this work. This article was selected as cover in the Journal of Aerosol Science.
+![Screenshot from 2023-04-30 01-38-47](https://user-images.githubusercontent.com/62391931/235339488-ccad9bfc-59d7-4d6b-ab12-7b1ab85d2b60.png)
+
 * **Aerosol metrology (experimental)**
 * **Others (numerical)**
 

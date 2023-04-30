@@ -47,6 +47,9 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
   - We investigated the role played by primary particle overlapping on the radiative properties of fractal-like agglomerates of nanoparticles. We thus obtained corrective factor to incorporate into the Rayleigh-Debye-Gans for fractal aggregates (RDG-FA). In addition, we observed an accurate and direct power-law between the radiative force and the aggregates volumetric volume. See [this paper](https://doi.org/10.1016/j.proci.2018.07.065) for further details.
 ![Screenshot from 2023-04-30 01-43-01](https://user-images.githubusercontent.com/62391931/235339598-404f8048-1a1d-419b-8e13-22eb61b9c7cc.png)
 
+  - I have investigated the effect of primary particle polydispersity on the morphological properties of fractal-like aggregates derived from numericel TEM images. I showed analytically this effect based on Gaussian and Lognormal primary particle size distributions. I explored the Hough Transform algorithm for primary particle detection in numerical TEM images. See [this paper](https://doi.org/10.1016/j.powtec.2018.02.008) for further details.
+![Screenshot from 2023-04-30 01-51-13](https://user-images.githubusercontent.com/62391931/235339904-71b43e4f-217a-4ef4-9e68-61e3fb0c9eec.png)
+
 * **Aerosol metrology (experimental)**
 * **Others (numerical)**
 

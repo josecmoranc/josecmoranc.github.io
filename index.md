@@ -51,6 +51,7 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
 ![Screenshot from 2023-04-30 01-51-13](https://user-images.githubusercontent.com/62391931/235339904-71b43e4f-217a-4ef4-9e68-61e3fb0c9eec.png)
 
 * **Aerosol metrology (experimental)**
+
 * **Others (numerical)**
 
 ## 2. Numerical tools

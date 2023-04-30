@@ -1,5 +1,7 @@
 # Scientific presentations
 
+This site is made to share pdf files of presentations I have done during my career as well as videos when available.
+
 ## 1. International conferences
 
 * [1] Morán, J., Poux, A., and Yon, J. “Soot particle formation under the competition between aggregation and surface growth”. European Aerosol Conference - EAC 2021. 30 August - 3 September 2021, Birmingham, United Kingdom (Online).

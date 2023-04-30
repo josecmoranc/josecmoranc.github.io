@@ -69,3 +69,9 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
 ## 4. Scientific presentations
 
 ## 5. Outreach
+
+## 6. Contact
+* [Linkedin](https://www.linkedin.com/in/jmoranc)
+* [Researchgate](https://www.researchgate.net/profile/Jose-Moran-3)
+* [Google Scholar](https://scholar.google.com/citations?user=ZNISpB8AAAAJ&hl=en&authuser=2&oi=sra)
+* josec.moranc.at.gmail.com

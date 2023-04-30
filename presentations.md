@@ -12,7 +12,7 @@ This site is made to share pdf files of presentations I have done during my care
 
 ## 2. National conferences
 
-* [1] Morán, J., Fuentes, A., Liu, F., & Yon, J. “FracVAL: An algorithm for the simulation of fractal-like aggregates of nanoparticles and subsequent numerical TEM images”. 1st FRANCO-AMSUD Energy and Environment Meeting. Marseille. March 2019.
+* [1] Morán, J., Fuentes, A., Liu, F., & Yon, J. “FracVAL: An algorithm for the simulation of fractal-like aggregates of nanoparticles and subsequent numerical TEM images”. 1st FRANCO-AMSUD Energy and Environment Meeting. Marseille. March 2019. The pdf is [available here](https://doi.org/10.13140/RG.2.2.10340.94087).
 * [2] Morán, J., Yon, J., Liu, F., & Fuentes, A. “Thermophoretic sampling of soot in a laminar coflow diffusion flame”. GDR Suie sur la « Métrologie des suies ». Paris. July 2019.
 * [3] Morán, J., Yon, J., & Poux, A. “Improving Monte Carlo simulations for an accurate modeling of soot aggregation”. Réunion plénière du GDR Suie. Marseille. October 2019. The pdf is [available here](https://doi.org/10.13140/RG.2.2.16585.90723).
 * [4] Morán, J., Yon, J., & Poux, A. “The properties of self-preserving size distribution of soot aggregates”. Congrès Français sur les Aérosols – CFA. Paris. January 2020.

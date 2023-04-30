@@ -15,6 +15,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 * **FTP-cpp:** (C++/Python) This is a Langevin Dynamics code to simulate the dynamics of suspended nanoparticles and determine their collision rates based on a first-time-passage approach. This code is available thgough the following [GitLab repository](https://gitlab.com/jmoranc1/ftp_kernels_langevin_dynamics).
 
 * **Aerosol particle charging:** (Python) This is a population balance model for particle charging through 2 mechanisms namely diffusion and field charging. The model also considers the particle electrophoretic deposition in an electrostatic precipitator (ESP). This code is available through [this GitHub repository](https://github.com/Aerosol-Lab/Aerosol_particle_charging_1d_model).
+![Charging-1d](https://user-images.githubusercontent.com/62391931/229414629-e120c1b8-9bfe-4ec6-8656-5deb0bda6ed0.png)
 
 * **LBM-PLF:** (C++/Python) A Lattice-Boltzmann coupled with DEM for simulating particle-laden flows is being developed. Currently in a private GitLab repository but will be available here in the future.
 

@@ -16,6 +16,6 @@ Numerical codes for measurements, post-processing experimental data, and differe
 * **Aerosol particle charging:** (Python) This is a population balance model for particle charging through 2 mechanisms namely diffusion and field charging. The model also considers the particle electrophoretic deposition in an electrostatic precipitator (ESP). This code is available through [this GitHub repository](https://github.com/Aerosol-Lab/Aerosol_particle_charging_1d_model).
 
 ## 2. Experimental measurements
-
+* **TDMA measurements:** This code allows controlling 2 DMA's (differential mobility analyzer), their respective HV (high-voltage) units, and a CPC (condensation particle counter) for conducting TDMA (tandem DMA) measurements. This code includes GUI to introduce parameters and run the experiments. This code is available through the following [GitHub repository](https://github.com/Aerosol-Lab/TDMA_measurements).
 
 ## 3. Post-processing experimental data

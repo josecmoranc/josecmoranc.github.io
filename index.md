@@ -62,6 +62,7 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
 
 * **Others (numerical)**
   - In this work, we intended to explore the economical performance of a small-scale wind farm for residential clients. The idea was to bring a quantitative assessment of the convenience of such projects to guide the public policy (taking increasingly and big popularity) in renewable energy for Chile. See [this paper](https://doi.org/10.1016/j.enconman.2017.02.062) for further details.
+ ![Screenshot from 2023-04-30 02-22-01](https://user-images.githubusercontent.com/62391931/235341009-18402e52-e999-40cf-a3df-a76daebb795a.png)
 
 ## 2. Numerical tools
 

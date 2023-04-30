@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# 1. About me and my research contributions
+# Particle technology
+
+## 1. About me and my research contributions
 
 Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://hoganlab.umn.edu/) belonging to the Particle Technology Laboratory ([PTL](https://ptl.umn.edu/)) of the University of Minnesota. My domain of research is aerosol science with particular emphasis on multi-scale numerical simulations and experiments involving mainly nanoparticles. During my career I have investigated the following subjects:
 
@@ -19,8 +21,8 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
 * **Aerosol metrology (experimental)**
 * **Others (numerical)**
 
-# 2. Numerical tools
+## 2. Numerical tools
 
-# 3. Tutorials
+## 3. Teaching and Tutorials
 
-# 4. Teaching
+## 4. Scientific presentations

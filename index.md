@@ -8,8 +8,10 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
 
 * Aerosol particle coagulation (theoretical & numerical)
   - I derived an equation for the coagulation kernel of suspended particles valid in the transition regime from a theoretical
-approach based on the Langevin equation. The new method reveals a likely universal asymptotic limit (long times) for the kinetics of coagulation.
+approach based on the Langevin equation. The new method reveals a likely universal asymptotic limit (long times) for the kinetics of coagulation. Read [this paper](https://doi.org/10.3390/fractalfract6090529) for further details.
 ![Screenshot from 2023-04-30 00-16-43](https://user-images.githubusercontent.com/62391931/235336902-4e379256-54fc-4931-b6e9-010d7fea1845.png)
+  - I have introduced a unified self-preserving size distribution to describe particles formed during coagulation. I found the simultaneous transition in flow and agglomeration regime to explain a systematic change in agglomerates morphology when increasing the size of primary particles (this was only experimentally observed before).
+ ![Screenshot from 2023-04-30 00-22-04](https://user-images.githubusercontent.com/62391931/235337088-66edb6ae-710d-426f-93f3-3df37993ed35.png)
 
 * New tools to simulate agglomerates and agglomeration (numerical)
 * Simulating flame-made particle formation (numerical)
@@ -21,3 +23,5 @@ approach based on the Langevin equation. The new method reveals a likely univers
 # 2. Numerical tools
 
 # 3. Tutorials
+
+# 4. Teaching

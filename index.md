@@ -50,6 +50,8 @@ Since April 2022 I have been Post-doc Associate at [Hogan's Laboratory](https://
   - I have investigated the effect of primary particle polydispersity on the morphological properties of fractal-like aggregates derived from numericel TEM images. I showed analytically this effect based on Gaussian and Lognormal primary particle size distributions. I explored the Hough Transform algorithm for primary particle detection in numerical TEM images. See [this paper](https://doi.org/10.1016/j.powtec.2018.02.008) for further details.
 ![Screenshot from 2023-04-30 01-51-13](https://user-images.githubusercontent.com/62391931/235339904-71b43e4f-217a-4ef4-9e68-61e3fb0c9eec.png)
 
+  - Coworkers have characterized soot particles emitted from different sources and compared their measurements with numerically simulated aggregates. The latter was my work by using FracVAL. See [this paper](https://doi.org/10.1038/s41598-019-57045-y).
+
 * **Aerosol metrology (experimental)**
 
 * **Others (numerical)**

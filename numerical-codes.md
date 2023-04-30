@@ -8,7 +8,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 
 * **MCAC:** (C++/Python) This is a Monte Carlo DEM software to simulate the nucleation, agglomeration, surface growth, and oxidation of aerosol particles. The code has been particularly adapted to take thermodynamic and fluid properties from CFD simulations under flame conditions. This code is available through [CORIA-CFD GitLab](https://gitlab.coria-cfd.fr/MCAC/MCAC/).
 
-* **NGDE-cpp:** (C++/Python) A nodal Population Balance code to simulate the dynamics of aerosol or colloid suspensions experiencing coagulation. This code is available though the following [GitLab repository](https://gitlab.com/jmoranc1/ngde_cpp).
+* **NGDE-cpp:** (C++/Python) A nodal Population Balance code to simulate the dynamics of aerosol or colloid suspensions experiencing coagulation is carried out. The nodes are used to discretize the particle size distribution which can span several decades in size. This code is available though the following [GitLab repository](https://gitlab.com/jmoranc1/ngde_cpp).
     
 * **FTP-cpp:** (C++/Python) This is a Langevin Dynamics code to simulate the dynamics of suspended nanoparticles and determine their collision rates based on a first-time-passage approach. This code is available thgough the following [GitLab repository](https://gitlab.com/jmoranc1/ftp_kernels_langevin_dynamics).
 

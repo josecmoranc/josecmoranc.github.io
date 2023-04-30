@@ -32,8 +32,8 @@ This site is made to share pdf files of presentations I have done during my care
 ## 4. Posters
 * [1] Morán, J., Yon, J., Poux, A., Liu F., & Fuentes, A. Improving Monte Carlo simulations for an accurate modeling of nanoparticles coagulation. European Aerosol Conference. Gothenbourg. August 2019.
 * [2] Morán, J., Henry, C., Poux, A., and Yon, J. “Impact of the maturation process on soot particle aggregation kinetics and morphology”. European Aerosol Conference - EAC 2021. 30 August - 3 September 2021, Birmingham, United Kingdom (online).
-* [3] **Morán, J., Poux, A., Liu, F., Escudero, F., Fuentes, A., and Yon, J. “Effects of overlapping in the evaluation of volume and surface area of complex soot aggregates in flames”. 24th ETH-Conference on Combustion Generated Nanoparticles. June2021. Zurich, Switzerland (online).
+* [3] Morán, J., Poux, A., Liu, F., Escudero, F., Fuentes, A., and Yon, J. “Effects of overlapping in the evaluation of volume and surface area of complex soot aggregates in flames”. 24th ETH-Conference on Combustion Generated Nanoparticles. June2021. Zurich, Switzerland (online).
 * [4] Morán, J., Henry, C., Yon, J., and Kholghy, R., Van der Waals interaction potentials between fractal-like agglomerates of nanoparticles. Congrès Français sur les Aérosols - CFA. January 2022. Paris, France.
-* [5] ***Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, F., Gallen, L., Riber, E., Yon, J. Coupling macroscale and nanoscale simulations of soot formation in a diffusion flame. Congrès Français sur les Aérosols - CFA. January 2022. Paris, France.
+* [5] Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, F., Gallen, L., Riber, E., Yon, J. Coupling macroscale and nanoscale simulations of soot formation in a diffusion flame. Congrès Français sur les Aérosols - CFA. January 2022. Paris, France.
 * [6] Morán, J., Henry, C., Yon, J., and Kholghy, R., Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement. International Aerosol Conference. September 2022. Athens, Greece (Online).
 

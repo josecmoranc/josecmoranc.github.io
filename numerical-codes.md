@@ -3,12 +3,14 @@ Numerical codes for measurements, post-processing experimental data, and differe
 
 ## 1. Computational simulations
 
-* **FracVAL:** (old version Fortran, new version C++/Python) Software to generate 3d off-lattice agglomerates of particles. The code use a a particle-cluster agglomeration approach to generate a initial population of small clusters. Subsequently, uses a quasi-hierarchical cluster-cluster aggregation approach where fractal parameters are retained constant all along the generation process. The original Fortran code is available in [Computer Physics Communications](https://doi.org/10.1016/j.cpc.2019.01.015).  A new version of FracVAL combining C++/Python with a [GitLab repository](https://gitlab.com/jmoranc1/fracval_cpp), and extending its capabilities is currently being developed.
+* **FracVAL:** (old version Fortran, new version C++/Python) Software to generate 3d off-lattice agglomerates of particles. The code use a a particle-cluster agglomeration approach to generate a initial population of small clusters. Subsequently, uses a quasi-hierarchical cluster-cluster aggregation approach where fractal parameters are retained constant all along the generation process (see the figure below for an example). The original Fortran code is available in [Computer Physics Communications](https://doi.org/10.1016/j.cpc.2019.01.015).  A new version of FracVAL combining C++/Python with a [GitLab repository](https://gitlab.com/jmoranc1/fracval_cpp), and extending its capabilities is currently being developed.
 ![Figure02](https://user-images.githubusercontent.com/62391931/235360986-4cb3dbbd-bed3-4089-9630-d4fc0001f6e7.png)
 
 * **MCAC:** (C++/Python) This is a Monte Carlo DEM software to simulate the nucleation, agglomeration, surface growth, and oxidation of aerosol particles. The code has been particularly adapted to take thermodynamic and fluid properties from CFD simulations under flame conditions. This code is available through [CORIA-CFD GitLab](https://gitlab.coria-cfd.fr/MCAC/MCAC/).
+![Screenshot from 2023-04-30 10-28-29](https://user-images.githubusercontent.com/62391931/235361648-5c7a82ad-b264-4d7c-b86a-670b08e40b66.png)
 
 * **NGDE-cpp:** (C++/Python) A nodal Population Balance code to simulate the dynamics of aerosol or colloid suspensions experiencing coagulation is carried out. The nodes are used to discretize the particle size distribution which can span several decades in size. This code is available though the following [GitLab repository](https://gitlab.com/jmoranc1/ngde_cpp).
+![Screenshot from 2023-04-30 10-25-58](https://user-images.githubusercontent.com/62391931/235361533-30628d94-ef93-483d-b110-51a24c75d7f3.png)
     
 * **FTP-cpp:** (C++/Python) This is a Langevin Dynamics code to simulate the dynamics of suspended nanoparticles and determine their collision rates based on a first-time-passage approach. This code is available thgough the following [GitLab repository](https://gitlab.com/jmoranc1/ftp_kernels_langevin_dynamics).
 

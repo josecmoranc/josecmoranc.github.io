@@ -20,6 +20,7 @@ This site is made to share pdf files of presentations I have done during my care
 * [6] *Morán, J., Yon, J., and Poux, A. “The simultaneous aggregation and surface growth of soot particles formed in an ethylene laminar premixed flame”. Congrès Français sur les Aérosols - CFA. January 2021. Paris, France (On-line).
 * [7] Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, A., Gallen, L., Riber, E., and Yon, J. “Coupling Macroscale and Nanoscale Simulations of Soot Produced in a Diffusion Flame: Towards a More Realistic Simulation of their Morphologies”. Réunion plénière du GDR Suie. Lyon. November 2021.
 * [8] Morán, J., “Collision kernels of suspended particles from the Langevin equation: Theoretical modeling and Numerical simulations”. XXIII Chilean Symposium in Physics, November 2022. Valparaiso, Chile. The pdf is [available here](https://doi.org/10.13140/RG.2.2.28226.66248).
+* [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France.
 
 ## 3. Seminars
 

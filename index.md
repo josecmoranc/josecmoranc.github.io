@@ -79,7 +79,7 @@ I have contributed to the organization of a few research conferences with partic
 * 2021-Present: Collaboration in the Aerosol Technology working group for the European Aerosol Conference (EAC) and International Aerosol COnference (IAC). This includes EAC 2021, [IAC 2022](https://iac2022.gr/#), and [EAC 2023](https://www.dfmf.uned.es/EAC2023/index.php?page=committees).
 * 2020: Led the organization of the [1st French PhD students conference](https://www.gdr-suie.cnrs.fr/en/doctoral-students-day/) on soot particle research.
 
-## 6. Photo and video Gallery
+## 6. Photo and video gallery
 Research would not be fun and exciting without a gallery of pictures and videos! This is available in the [following page](./photo-video.html).
 
 ## 7. Contact

@@ -31,7 +31,7 @@ This site is made to share pdf files of presentations I have done during my care
 
 * [1] Morán, J. “Soot aggregates: formation dynamics and morphology”. Seminar (invited) for the Energy and Particle Technology Laboratory. June 2021. Ottawa, Canada (online).
 * [2] Yon, J., and Morán, J. “Simulation de la formation des particules de suie : pour une meilleure caractérisation de ces particules” at the 6th seminar (invited) of the Calisto group from INRIA, Sophia Antipolis, France.
-* [3] Morán, J. "Flame-made nanoparticles: formation dynamics and morphology". REU PD Trainee Research Spotlight 1 - University of Minnesota. June 222, 2022.
+* [3] Morán, J. "Flame-made nanoparticles: formation dynamics and morphology". REU PD Trainee Research Spotlight 1 - University of Minnesota. June 222, 2022. This is available in [YouTube](https://youtu.be/xL6v0dUA1a4).
 [![Screenshot from 2023-04-30 22-43-07](https://user-images.githubusercontent.com/62391931/235403719-f571bbcc-18d8-492f-a617-9fa6eee54a27.png)](https://youtu.be/xL6v0dUA1a4)
 * [4] Morán, J., and Hogan, C., “Aerosol Technology: Electrostatic particle filtration to improve air quality”. Seminar (invited) for the Department of Industrial Engineering, Universidad Federico Santa Marı́a, November 2022. Valparaiso, Chile.
 

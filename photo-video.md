@@ -29,6 +29,7 @@ The video below shows an agglomerate of nanoparticles generated using [FracVAL](
 [![Screenshot from 2023-04-30 22-56-44](https://user-images.githubusercontent.com/62391931/235404649-16e7c349-be19-4b30-b79f-961cef343508.png)](https://youtu.be/KDgQIgObRkM)
 
 ## 6. Realistic flame-made agglomerates of nanoparticles simulated numerically
-The figure below shows a total of four different numerical TEM (transmission electron microscopy) images agglomerates of soot particles simulated using MCAC for 30 ms under pure agglomeration (blue frame) and agglomeration and surface growth (red, yellow and green frames). These correspond to the simulations published in [this paper](https://doi.org/10.1016/j.jaerosci.2020.105690). 
+The figure below shows a total of four different numerical TEM (transmission electron microscopy) images agglomerates of soot particles simulated using MCAC for 30 ms under pure agglomeration (blue frame) and agglomeration and surface growth (red, yellow and green frames). These correspond to the simulations published in [this paper](https://doi.org/10.1016/j.jaerosci.2020.105690).
+
 ![Screenshot from 2023-04-30 23-36-09](https://user-images.githubusercontent.com/62391931/235407284-6aaf0507-8e6c-4495-a40c-034ac08993b2.png)
 

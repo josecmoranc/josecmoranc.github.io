@@ -1,6 +1,6 @@
 # Photo and video gallery
 
-Here I would like to share some photos and videos of what I consider exciting about my domain of research.
+Here I would like to share some photos and videos of what I consider some exciting subjects in my domain of research.
 
 ## 1. Agglomerate growth under 2 extreme regimes
 

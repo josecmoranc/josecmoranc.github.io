@@ -27,6 +27,7 @@ This site is made to share pdf files of presentations I have done during my care
 * [8] Morán, J., “Collision kernels of suspended particles from the Langevin equation: Theoretical modeling and Numerical simulations”. XXIII Chilean Symposium in Physics, November 2022. Valparaiso, Chile. The pdf is [available here](https://doi.org/10.13140/RG.2.2.28226.66248).
 [![Screenshot from 2023-04-30 18-42-40](https://user-images.githubusercontent.com/62391931/235381517-b655e5cf-1ce8-43a3-a6dc-c4502ba006bf.png)](https://doi.org/10.13140/RG.2.2.28226.66248)
 * [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France.
+![Screenshot from 2023-04-30 23-09-36](https://user-images.githubusercontent.com/62391931/235405512-50e46bd3-88c0-4a34-b025-2f34804f2a57.png)
 
 ## 3. Seminars
 

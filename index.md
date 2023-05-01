@@ -75,8 +75,14 @@ I would like to share teaching material related to aerosol science. For the mome
 Rather than only providing a list of presentations I want here to share some pdf versions and videos for some of these presentations for the people interested in my work. Personally, I like to see presentations prior to reading long papers because they give a big-picture on a subject and summarize the content. Therefore, my presentations are available in the [following page](./presentations.html).
 
 ## 5. Outreach
+I have contributed to the organization of a few research conferences with particular emphasis on Aerosol Technology and flame-made particles:
+* 2021-Present: Collaboration in the Aerosol Technology working group for the European Aerosol Conference (EAC) and International Aerosol COnference (IAC). This includes EAC 2021, [IAC 2022](https://iac2022.gr/#), and [EAC 2023](https://www.dfmf.uned.es/EAC2023/index.php?page=committees).
+* 2020: Led the organization of the [1st French PhD students conference](https://www.gdr-suie.cnrs.fr/en/doctoral-students-day/) on soot particle research.
 
-## 6. Contact
+## 6. Photo and video Gallery
+Research would not be fun and exciting without a gallery of pictures and videos :wink:
+
+## 7. Contact
 If you are interested in my work or have a question using the material provided in this website, do not hesitate to contact me:
 * [Linkedin](https://www.linkedin.com/in/jmoranc)
 * [Researchgate](https://www.researchgate.net/profile/Jose-Moran-3)

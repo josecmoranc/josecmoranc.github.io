@@ -16,5 +16,9 @@ Here I would like to share some photos and videos of what I consider exciting ab
 [![Screenshot from 2023-04-30 22-03-38](https://user-images.githubusercontent.com/62391931/235395865-bc820cf8-6abc-4368-8add-f16eec6b4192.png)](https://youtu.be/LRzONWVz1wE)
 
 ## 3. First-time passage simulation of agglomerates collisions including rotation
-The video below shows two agglomerates of nanoparticles. One of them is static at the center of a cubic domain and the second is free to wander around. The latter movement is simulated by solving the Langevin equation for displacement and rotation. This is simulated using my [FTP-cpp](https://josecmoranc.github.io/numerical-codes.html) code. The video ends when both agglomerates collide and therefore agglomeration takes place.
+The video below shows two agglomerates of nanoparticles generated using [FracVAL](https://josecmoranc.github.io/numerical-codes.html). One of them is static at the center of a cubic domain and the second is free to wander around. The latter movement is simulated by solving the Langevin equation for displacement and rotation. This is simulated using my [FTP-cpp](https://josecmoranc.github.io/numerical-codes.html) code. The video ends when both agglomerates collide and therefore agglomeration takes place.
 [![Screenshot from 2023-04-30 22-50-57](https://user-images.githubusercontent.com/62391931/235404031-658a172e-9824-4218-994e-aa77527332ab.png)](https://youtu.be/z1SZLWrKnFA)
+
+## 4. The resutructuring of a fractal-like agglomerate
+The video below shows an agglomerate of nanoparticles generated using [FracVAL](https://josecmoranc.github.io/numerical-codes.html). In the video we observe the thermal restructuring of the agglomerate where primary particles start to approach each other and therefore the cluster restructures to a more compact shape that at the end of the process becomes spherical-like. Particles interact via Lennard-Jones potentials and their dynamics are simulated by solving the Langevin equation.
+[![Screenshot from 2023-04-30 22-56-44](https://user-images.githubusercontent.com/62391931/235404649-16e7c349-be19-4b30-b79f-961cef343508.png)](https://youtu.be/KDgQIgObRkM)

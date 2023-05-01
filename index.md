@@ -76,7 +76,7 @@ Rather than only providing a list of presentations I want here to share some pdf
 
 ## 5. Outreach
 I have contributed to the organization of a few research conferences with particular emphasis on Aerosol Technology and flame-made particles:
-* 2021-Present: Collaboration in the Aerosol Technology working group for the European Aerosol Conference (EAC) and International Aerosol COnference (IAC). This includes EAC 2021, [IAC 2022](https://iac2022.gr/#), and [EAC 2023](https://www.dfmf.uned.es/EAC2023/index.php?page=committees).
+* 2021-Present: Collaboration in the Aerosol Technology working group for the European Aerosol Conference (EAC) and International Aerosol Conference (IAC). This includes EAC 2021, [IAC 2022](https://iac2022.gr/#), and [EAC 2023](https://www.dfmf.uned.es/EAC2023/index.php?page=committees).
 * 2020: Led the organization of the [1st French PhD students conference](https://www.gdr-suie.cnrs.fr/en/doctoral-students-day/) on soot particle research.
 
 ## 6. Photo and video gallery

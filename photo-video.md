@@ -33,7 +33,7 @@ Here I would like to share some photos and videos of what I consider some exciti
 
 ## 6. Realistic flame-made agglomerates of nanoparticles simulated numerically
 * **How?** The figure below shows a total of four different numerical TEM (transmission electron microscopy) images agglomerates of soot particles simulated using [MCAC](https://josecmoranc.github.io/numerical-codes.html) for 30 ms under pure agglomeration (blue frame) and agglomeration and surface growth (red, yellow and green frames). These images correspond to the simulations published in [this paper](https://doi.org/10.1016/j.jaerosci.2020.105690).
-* **What?** We observe clearly different agglomerates between pure agglomeration and agglomeration+surface growth. We also observe some degree of overlapping between primary particles.
+* **What?** We observe clearly different agglomerates between pure agglomeration and agglomeration+surface growth. We also observe some degree of overlapping between primary particles when surface growth is included.
 * **Why?** When pure agglomeration takes place, then primary particles will be in a single point contact (as we thus model it). However, when surface growth is added then some mass will continuously be added on particle surfaces and therefore the zone of point contact will become an "overlapped" zone explaining the different morphologies observed below. In addition, the surface growth will modify the particle dynamics and thus the particle-particle interaction regime.
 [![Screenshot from 2023-04-30 23-36-09](https://user-images.githubusercontent.com/62391931/235407284-6aaf0507-8e6c-4495-a40c-034ac08993b2.png)](https://doi.org/10.1016/j.jaerosci.2020.105690)
 

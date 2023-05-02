@@ -1,4 +1,4 @@
-# Teaching and Tutorials
+# Teaching and tutorials
 The purpose of this site is to share teaching and tutorial material that may be useful especially for early career scientists including Master or PhD students working in the domain of Aerosol Technology.
 
 ## 1. Aerosol metrology tutorials

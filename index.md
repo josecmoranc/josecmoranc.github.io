@@ -68,7 +68,7 @@ Since April 2022 I have been Post-doc Associate at Prof. Chris [Hogan's Laborato
 ## 2. Numerical tools
 Numerical codes for measurements, post-processing experimental data, and different numerical simulations are provided. The latter include population balance simulations of aerosol coagulation, aerosol particle charging, fractal-like agglomerates, Monte Carlo DEM simulations, and Langevin Dynamics are provided in the [following page](./numerical-codes.html).
 
-## 3. Teaching and Tutorials
+## 3. Teaching and tutorials
 I would like to share teaching material related to aerosol science. For the moment I am sharing a few video-tutorials related to aerosol metrology through the [following page](./teaching-tutorials.html).
 
 ## 4. Scientific presentations

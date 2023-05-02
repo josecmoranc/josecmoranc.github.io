@@ -9,7 +9,7 @@ This site is made to share pdf files of presentations I have done during my care
 * [2] Morán, J., Henry, C., Poux, A., and Yon, J. “Impact of the maturation process on soot particle aggregation kinetics and morphology”. Cambridge Particle Meeting. June 2021. Cambridge, UK (Online).
 * [3] Morán, J., and Kholghy, R., Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement effect. 9th World Congress in Particle Technology, September 2022. Madrid, Spain.
 * [4] Morán, J. Kholghy, R. Yon. J., and Henry, C. Approximating de van der Waals Interaction potentials between agglomerates and their coagulation enhancement effect. Cambridge Particle Meeting. Juin 2022. Cambridge, UK (Online)
-* [5] Morán, J., and Kholghy, R., “Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement effect”. 9th World Congress in Particle Technology, September 2022. Madrid, Spain.
+* [5] Morán, J., and Kholghy, R., “Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement effect”. 9th World Congress in Particle Technology, September 2022. Madrid, Spain. This presentation will be available in the future.
 ![Screenshot from 2023-04-30 23-06-54](https://user-images.githubusercontent.com/62391931/235405357-a9c80fc2-9cd1-498b-8678-c8aff31be667.png)
 
 ## 2. National conferences
@@ -26,7 +26,7 @@ This site is made to share pdf files of presentations I have done during my care
 * [7] Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, A., Gallen, L., Riber, E., and Yon, J. “Coupling Macroscale and Nanoscale Simulations of Soot Produced in a Diffusion Flame: Towards a More Realistic Simulation of their Morphologies”. Réunion plénière du GDR Suie. Lyon. November 2021.
 * [8] Morán, J., “Collision kernels of suspended particles from the Langevin equation: Theoretical modeling and Numerical simulations”. XXIII Chilean Symposium in Physics, November 2022. Valparaiso, Chile. The pdf is [available here](https://doi.org/10.13140/RG.2.2.28226.66248).
 [![Screenshot from 2023-04-30 18-42-40](https://user-images.githubusercontent.com/62391931/235381517-b655e5cf-1ce8-43a3-a6dc-c4502ba006bf.png)](https://doi.org/10.13140/RG.2.2.28226.66248)
-* [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France.
+* [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France. This presentation will be available in the future.
 ![Screenshot from 2023-04-30 23-09-36](https://user-images.githubusercontent.com/62391931/235405512-50e46bd3-88c0-4a34-b025-2f34804f2a57.png)
 
 ## 3. Seminars

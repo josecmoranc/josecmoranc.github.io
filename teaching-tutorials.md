@@ -18,4 +18,5 @@ The purpose of this site is to share teaching and tutorial material that may be 
 
 Teaching material will be available in the future.
 
+[Scientific Presentations](./presentations.html)
 [Return to Home](./index.html)

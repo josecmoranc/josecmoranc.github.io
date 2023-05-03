@@ -80,7 +80,7 @@ I have contributed to the organization of a few research conferences with partic
 * 2020: Led the organization of the [1st French PhD students conference](https://www.gdr-suie.cnrs.fr/en/doctoral-students-day/) on soot particle research.
 
 ## 6. Photo and video gallery
-Research would not be fun and exciting without a gallery of pictures and videos! This is available in the [following page](./photo-video.html).
+Research would not be exciting without a gallery of pictures and videos! This is available in the [following page](./photo-video.html).
 
 ## 7. Contact
 If you are interested in my work or have a question using the material provided in this website, do not hesitate to contact me:

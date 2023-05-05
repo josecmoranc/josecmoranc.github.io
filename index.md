@@ -83,7 +83,7 @@ I have contributed to the organization of a few research conferences with partic
 A research website may not be exciting without a gallery of pictures and videos! This is available in the [following page](./photo-video.html).
 
 ## 7. Contact
-If you are interested in my work or have a question using the material provided in this website, do not hesitate to contact me:
+If you are interested in my work or have a question using the material provided in this website or if you have feedback to improve codes or experiments, do not hesitate to contact me:
 * [Linkedin](https://www.linkedin.com/in/jmoranc)
 * [Researchgate](https://www.researchgate.net/profile/Jose-Moran-3)
 * [Google Scholar](https://scholar.google.com/citations?user=ZNISpB8AAAAJ&hl=en&authuser=2&oi=sra)

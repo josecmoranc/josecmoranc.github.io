@@ -37,4 +37,8 @@ Here I would like to share some photos and videos of what I consider some exciti
 * **Why?** When pure agglomeration takes place, then primary particles will be in a single point contact (as we thus model it). However, when surface growth is added then some mass will continuously be added on particle surfaces and therefore the zone of point contact will become an "overlapped" zone explaining the different morphologies observed below. In addition, the surface growth will modify the particle dynamics and thus the particle-particle interaction regime.
 [![Screenshot from 2023-04-30 23-36-09](https://user-images.githubusercontent.com/62391931/235407284-6aaf0507-8e6c-4495-a40c-034ac08993b2.png)](https://doi.org/10.1016/j.jaerosci.2020.105690)
 
+## 7. Light-scattering from particles in a flame
+* **What?** The image below shows the measured light-scattering intensity at an angle of 14.9° of particles from a flame when irradiated with 532 nm wavelength horizontal plane laser. We observe that intensity evolves in almost 4 orders of magnitude between the zones where the particles are located compared to the scattering from the gas molecules. See [this paper](https://doi.org/10.1016/j.combustflame.2021.111539) for further details.
+[![Screenshot from 2023-05-07 09-30-55](https://user-images.githubusercontent.com/62391931/236683768-cb26ac2a-a015-4e85-84ad-079ff1181d2d.png)](https://doi.org/10.1016/j.combustflame.2021.111539)
+
 [Return to Home](./index.html)

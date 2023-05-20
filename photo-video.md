@@ -41,8 +41,8 @@ Here I would like to share some photos and videos of what I consider some exciti
 * **What?** The image below shows the measured light-scattering intensity at an angle of 14.9° of particles from a flame when irradiated with 532 nm wavelength horizontal plane laser. We observe that intensity evolves in almost 4 orders of magnitude between the zones where the particles are located compared to the scattering from the gas molecules. See [this paper](https://doi.org/10.1016/j.combustflame.2021.111539) for further details.
 [![Screenshot from 2023-05-07 09-30-55](https://user-images.githubusercontent.com/62391931/236683768-cb26ac2a-a015-4e85-84ad-079ff1181d2d.png)](https://doi.org/10.1016/j.combustflame.2021.111539)
 
-[Return to Home](./index.html)
-
 ## 8. Brownian motion
 * **What?** The video below shows the movement of pollen grains in water. This is one of the first videos I came across when I stated studying Brownian motion. It is very relevant because the name "Brownian" comes from the surname of the Scottish botanist Robert Brown (1773 - 1858) who is thought to have observed what we now call Brownian motion for the first time. Indeed, he observed pollen grains in water! Here is how he described his observation: "While examining the form of these particles immersed in water, I observed many of them very evidently in motion. These motions were such as to satisfy me... that they arose neither from currents in the fluid, nor from its gradual evaporation, but belonged to the particle itself" (from p.8, D.K.C. MacDonald, 1962). 
 [![Screenshot from 2023-05-19 23-09-20](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/1799259f-8f35-4a63-9cf7-1424df85540d)](https://www.youtube.com/watch?v=R5t-oA796to)
+
+[Return to Home](./index.html)

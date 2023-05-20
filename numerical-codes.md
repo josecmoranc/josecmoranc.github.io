@@ -9,7 +9,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 [![Figure02](https://user-images.githubusercontent.com/62391931/235360986-4cb3dbbd-bed3-4089-9630-d4fc0001f6e7.png)](https://doi.org/10.1016/j.cpc.2019.01.015)
 
 * **MCAC:** (C++/Python) This is a Monte Carlo DEM software to simulate the nucleation, agglomeration, surface growth, and oxidation of aerosol particles. The code has been particularly adapted to take thermodynamic and fluid properties from CFD simulations under flame conditions (see the figure below). This code is available through [CORIA-CFD GitLab](https://gitlab.coria-cfd.fr/MCAC/MCAC/).
-    - An introductory tutorial is [provided here](https://github.com/josecmoranc/josecmoranc.github.io/blob/main/Tutorial_codes/MCAC-Tutorial/MCAC_tutorial_01.ipynb) [provided here](./Tutorial_codes/MCAC-Tutorial/MCAC_tutorial_01.html)
+    - An introductory tutorial is [provided here](./Tutorial_codes/MCAC-Tutorial/MCAC_tutorial_01.html).
 [![Screenshot from 2023-04-30 10-28-29](https://user-images.githubusercontent.com/62391931/235361648-5c7a82ad-b264-4d7c-b86a-670b08e40b66.png)](https://gitlab.coria-cfd.fr/MCAC/MCAC/)
 
 * **NGDE-cpp:** (C++/Python) A nodal Population Balance code to simulate the dynamics of aerosol or colloid suspensions experiencing coagulation is carried out. The nodes are used to discretize the particle size distribution which can span several decades in size. Here we solve the population balance equation and consider all the collision rates between nodes determined by their collision kernels (see the figure below). This code is available though the following [GitLab repository](https://gitlab.com/jmoranc1/ngde_cpp).

@@ -8,7 +8,7 @@ Il s'agit du seul livre sur les aérosols en langue française. Il est étonnamm
 
 ![5100QKEMWYL _AC_UF1000,1000_QL80_](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/355e6f7a-c31c-45b2-9d12-236e783f0cb7)
 
-Table des matières
+## Table des matières
 
 PARTIE I - Propriétés physiques (André RENOUX)
 
@@ -54,4 +54,5 @@ CHAPITRE 6 : Applications
 
 CHAPITRE 7 : Synthèse
 
-
+## Référence
+Les aérosols ; physique et métrologie. Par André Renoux et Denis Boulaud. Lavoisier, Tec et Doc, Paris, 1998.

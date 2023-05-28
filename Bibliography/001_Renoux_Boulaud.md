@@ -6,6 +6,8 @@ layout: default
 
 Il s'agit du seul livre sur les aérosols en langue française. Il est étonnamment court (301 pages) compte tenu de la quantité de sujets traités dans le livre. Il est divisé en deux sections, l'une consacrée aux propriétés physiques et l'autre aux mesures expérimentales. Dans la première partie du livre, et vu l'importance des aérosols atmosphériques, un chapitre spécial donne un aperçu de ces derniers. Ensuite, nous passons aux distributions granulométriques des aérosols. Ensuite, le chapitre 3 est le cœur du livre en termes de théorie. Les auteurs y donnent un bref aperçu de la théorie cinétique des gaz, du transport des particules et des propriétés physiques, notamment électriques et optiques. La deuxième partie du livre, axée sur les expériences, donne un bon aperçu de la métrologie des aérosols, y compris des explications sur les instruments de mesure courants tels que le compteur de noyeaux de condensation ou l'_Aerodynamic Particle Sizer_. Elle comprend également une section consacrée à l'étalonnage des instruments.
 
+![5100QKEMWYL _AC_UF1000,1000_QL80_](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/355e6f7a-c31c-45b2-9d12-236e783f0cb7)
+
 Table des matières
 
 PARTIE I - Propriétés physiques (André RENOUX)

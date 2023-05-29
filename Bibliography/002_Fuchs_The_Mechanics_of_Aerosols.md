@@ -6,16 +6,16 @@ For a more extensive overview of this book please refer to [this publication](ht
 ## Table of contents
 
 Chapter I: CLassification of aerosols. Size and shape of aerosol particles
-  1. CLassification of aerosols
-  2. Particle size in aerosols
-  3. Particle size distribution in aerosols
-  4. Mean sizes of aerosol particles
-  5. Shape and structure of aerosol particles
+1. CLassification of aerosols
+2. Particle size in aerosols
+3. Particle size distribution in aerosols
+4. Mean sizes of aerosol particles
+5. Shape and structure of aerosol particles
 
-Chapter II: Steady rectilinear motion of aerosol particles
-  6. Resistance of a gas to the motion of very small particles
-  7. Stokes' formula
-  8. Resistance of a gas to particles of a size comparable with the mean free path
+Chapter II: Steady rectilinear motion of aerosol particles\
+6. Resistance of a gas to the motion of very small particles\
+7. Stokes' formula
+8. Resistance of a gas to particles of a size comparable with the mean free path
 9. Experimental verification and accuracy of Stokes' formula
 10. Resistance of a medium beyond the Stokes region
 11. The general nature of the motion of non-spherical particles 

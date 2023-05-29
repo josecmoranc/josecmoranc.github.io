@@ -3,7 +3,7 @@
 
 For a more extensive overview of this book please refer to [this publication](https://doi.org/10.1063/1.3047354).
 
-![Uploading fuchs_book.jpg…]()
+![fuchs_book](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/8aeda8ba-d0b8-4b0c-8f52-deca5f463822)
 
 ## Table of contents
 

@@ -1,6 +1,6 @@
 # The Mechanics of Aerosols (Nikolai Albertowich Fuchs)
 
-This is the book to read for understanding the fundamental properties of aerosol particle physics involving particle-gas interaction and particle trajectories in flows involving rectilinear on non-rectilinear motion under the action of external forces. It is an excellent reference to deeply understand aerosol particle characterization and theoretical modeling with particular emphasis on diffusion and coagulation. For a more extensive overview of this book please refer to [this publication](https://doi.org/10.1063/1.3047354).
+Despite being a book from 1964, this is **the book** to read for understanding the fundamental properties of aerosol particle physics involving particle-gas interaction and particle trajectories in flows involving rectilinear on non-rectilinear motion under the action of external forces. It is an excellent reference to deeply understand aerosol particle characterization and theoretical modeling with particular emphasis on diffusion and coagulation. For a more extensive overview of this book please refer to [this publication](https://doi.org/10.1063/1.3047354).
 
 ![fuchs_book](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/8aeda8ba-d0b8-4b0c-8f52-deca5f463822)
 

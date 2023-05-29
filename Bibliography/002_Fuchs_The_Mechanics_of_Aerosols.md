@@ -28,6 +28,7 @@ Chapter II: Steady rectilinear motion of aerosol particles\
   16. Radiometric forces in aerosol. Thermophoresis, photophoresis and diffusiophoresis\
 
 Chapter III: Non-uniform rectilinear motion of aerosol particles\
+
   17. Non-uniform motion of particles at low Re in a stationary medium\
   18. Non-uniform motion of particles at large Re\
   19. Oscillation of aerosol particles due to a periodic external force\
@@ -38,6 +39,7 @@ Chapter III: Non-uniform rectilinear motion of aerosol particles\
   24. Electrostatic scattering of aerosols\
 
 Chapter IV: Curvilinear motion of aerosol particles\
+
   25. General theory of curvilinear motion of particles. Settling of aerosols in a variable horizontal electric field\
   26. Precipitation of aerosols from laminar flow under the action of gravity\
   27. Precipitation of aerosols from laminar flow by an electric field\
@@ -50,6 +52,7 @@ Chapter IV: Curvilinear motion of aerosol particles\
   34. Inertial and electrostatic deposition of flowing aerosols on objects of simple shape\
 
 Chapter V: Brownian motion and diffusion in aerosols\
+
   35. Brownian motion of aerosols\
   36. Experimental study of Brownian motion in aerosols\
   37. Probability functions in the Brownian motion of aerosol particles\
@@ -61,6 +64,7 @@ Chapter V: Brownian motion and diffusion in aerosols\
   43. Brownian rotation. Orientation of aerosol particles in an electric field\
 
 Chapter VI: Convective and turbulent diffusion of aerosols\
+
   44. Deposition of aerosols which are in convective flow\
   45. Motion of aerosol particles in turbulent flows\
   46. Deposition of aerosols in turbulent flows\
@@ -68,6 +72,7 @@ Chapter VI: Convective and turbulent diffusion of aerosols\
   48. Deposition of aerosols from the atmosphere\
 
 Chapter VII: The coagulation of aerosols\
+
   49. Thermal (Brownian) coagulation of aerosols with spherical particles\
   50. The coagulation of aerosols having elongated particles\
   51. Thermal coagulation of aerosols having charged particles. The effect of molecular forces on the rate of coagulation\
@@ -78,6 +83,7 @@ Chapter VII: The coagulation of aerosols\
   56. The efficiency of collisions between aerosol particles\
 
 Chapter VIII: Dispersal of powders as aerosols\
+
   57. The detachment and transport of particles by wind\
   58. The fluidization and dispersal of powders\
 

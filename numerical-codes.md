@@ -37,6 +37,8 @@ Numerical codes for measurements, post-processing experimental data, and differe
 * **DMA-Scan:** (Python) This code allows controlling a single DMA, and its corresponding high-voltage unit using a DAQ for scan measurements of nanoparticle size. This code includes GUI (see the picture below) to introduce parameters and run the experiments. This code was mainly developed by Dr. Tomoya Tamadate but I have also contributed to its development. It is available through the following [GitHub repository](https://github.com/Aerosol-Lab/DMAscan).
 [![Screenshot from 2023-05-01 08-50-06](https://user-images.githubusercontent.com/62391931/235461216-2eca5ee1-7e2f-4a95-b711-918d4e5f2429.png)](https://github.com/Aerosol-Lab/TDMA_measurements)
 
+* **RH and T sensor:** (Python) A simple Python code is provided to read the sampled relative humidity and temperature from a DHT sensor connected to an Arduino board. This code is available through the following  [GitHub repository](https://github.com/Aerosol-Lab/RH_T_sensor).
+
 [Teaching and tutorials](./teaching-tutorials.html)
 
 [Return to Home](./index.html)

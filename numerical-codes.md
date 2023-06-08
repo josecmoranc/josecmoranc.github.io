@@ -38,6 +38,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 [![Screenshot from 2023-05-01 08-50-06](https://user-images.githubusercontent.com/62391931/235461216-2eca5ee1-7e2f-4a95-b711-918d4e5f2429.png)](https://github.com/Aerosol-Lab/TDMA_measurements)
 
 * **RH and T sensor:** (Python) A simple Python code is provided to read the sampled relative humidity and temperature from a DHT sensor connected to an Arduino board. This code is available through the following  [GitHub repository](https://github.com/Aerosol-Lab/RH_T_sensor).
+![Screenshot from 2023-06-08 07-29-49](https://github.com/Aerosol-Lab/RH_T_sensor/assets/62391931/85d008f0-60e9-4dfe-8d3b-9bd5a2bc77c8)
 
 [Teaching and tutorials](./teaching-tutorials.html)
 

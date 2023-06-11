@@ -43,7 +43,7 @@ Here I would like to share some photos and videos of what I consider some exciti
 
 ## 8. Fragmentation of a fractal-like agglomerate
 * **What?** The video shows the thermal fragmentation of a fractal-like agglomerate due to binding energy between primary particles being in the same order of magnitude than thermal energy. The agglomerate was generated using [FracVAL](https://josecmoranc.github.io/numerical-codes.html) and here we simulate the primary particle motion by solving the Langevin equation considering bonded Harmonic potential intraction between monomers.
-![fragmentation](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/82ad966f-6344-479d-b0a9-29ea53537aa6)
+![fragmentation](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/e65e8074-03d2-4227-82ad-dfd892e82f0c)
 
 ## 9. Brownian motion
 * **What?** The video below shows the movement of pollen grains in water. This is one of the first videos I came across when I stated studying Brownian motion. It is very relevant because the name "Brownian" comes from the surname of the Scottish botanist Robert Brown (1773 - 1858) who is thought to have observed what we now call Brownian motion for the first time. Indeed, he observed pollen grains in water! Here is how he described his observation: "While examining the form of these particles immersed in water, I observed many of them very evidently in motion. These motions were such as to satisfy me... that they arose neither from currents in the fluid, nor from its gradual evaporation, but belonged to the particle itself" (from p.8, D.K.C. MacDonald, 1962). 

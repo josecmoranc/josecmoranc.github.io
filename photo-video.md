@@ -24,8 +24,7 @@ Here I would like to share some photos and videos of what I consider some exciti
 
 ## 4. First-time passage simulation of agglomerates collisions including rotation
 * **What?** The video below shows two agglomerates of nanoparticles generated using [FracVAL](https://josecmoranc.github.io/numerical-codes.html). One of them is static (the coordinate system is placed on its center of mass) at the center of a cubic domain and the second is free to wander around. The latter movement is simulated by solving the Langevin equation for both displacement and rotation. This is simulated using my [FTP-cpp](https://josecmoranc.github.io/numerical-codes.html) code. The video ends when both agglomerates collide and therefore agglomeration takes place.
-
-![Agglomeration_with_rotation_AdobeExpress](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/eca0cac5-5049-4dab-b4ce-de12c9c975cd)
+![ezgif com-video-to-gif(1)](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/cfd41645-cc8d-4e3d-9194-f3c9a81802b2)
 
 ## 5. The resutructuring of a fractal-like agglomerate
 * **What?** The video below shows an agglomerate of nanoparticles generated using [FracVAL](https://josecmoranc.github.io/numerical-codes.html). In the video we observe the thermal restructuring of the agglomerate where primary particles start to approach each other and therefore the cluster restructures to a more compact shape that at the end of the process becomes spherical-like. Particles interact via Lennard-Jones potentials and their dynamics are simulated by solving the Langevin equation.

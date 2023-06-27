@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Numerical codes
 Numerical codes for measurements, post-processing experimental data, and different numerical simulations are provided. The latter include population balance simulations of aerosol coagulation, aerosol particle charging, fractal-like agglomerates, Monte Carlo DEM simulations, and Langevin Dynamics
 
@@ -45,7 +43,3 @@ Numerical codes for measurements, post-processing experimental data, and differe
 [Teaching and tutorials](./teaching-tutorials.html)
 
 [Return to Home](./index.html)
-
-Test equation:
-
-$$ f(x) = exp(-x)$$

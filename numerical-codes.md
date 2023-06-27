@@ -47,8 +47,4 @@ Numerical codes for measurements, post-processing experimental data, and differe
 
 [Teaching and tutorials](./teaching-tutorials.html)
 
-Test equations:
-
-$\sqrt{3x-1}+(1+x)^2$
-
 [Return to Home](./index.html)

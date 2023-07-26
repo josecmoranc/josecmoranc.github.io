@@ -40,12 +40,15 @@ This site is made to share pdf files of presentations I have done during my care
 
 ## 4. Posters
 * [1] Morán, J., Yon, J., Poux, A., Liu F., & Fuentes, A. Improving Monte Carlo simulations for an accurate modeling of nanoparticles coagulation. European Aerosol Conference. Gothenbourg. August 2019.
+  ![poster_EAC2019_JM_JY_FL_AF_v2](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/bbf84b69-1a69-4632-9f28-a68faa0063b1)
 * [2] Morán, J., Henry, C., Poux, A., and Yon, J. “Impact of the maturation process on soot particle aggregation kinetics and morphology”. European Aerosol Conference - EAC 2021. 30 August - 3 September 2021, Birmingham, United Kingdom (online). This is available in [YouTube](https://youtu.be/AfUgvpkO6dA).
 [![Screenshot from 2023-04-30 18-36-50](https://user-images.githubusercontent.com/62391931/235381309-99e25c77-483f-4cc6-9b4a-022a989008dc.png)](https://youtu.be/AfUgvpkO6dA)
 * [3] Morán, J., Poux, A., Liu, F., Escudero, F., Fuentes, A., and Yon, J. “Effects of overlapping in the evaluation of volume and surface area of complex soot aggregates in flames”. 24th ETH-Conference on Combustion Generated Nanoparticles. June2021. Zurich, Switzerland (online). This is available in [YouTube](https://youtu.be/0LC2pzlnPKY) and the pdf is [available here](https://doi.org/10.13140/RG.2.2.33638.55364).
 [![Screenshot from 2023-04-30 18-35-07](https://user-images.githubusercontent.com/62391931/235381234-90461dc6-fffd-4673-a861-b5bf5f1bacb8.png)](https://doi.org/10.13140/RG.2.2.33638.55364)
 * [4] Morán, J., Henry, C., Yon, J., and Kholghy, R., Van der Waals interaction potentials between fractal-like agglomerates of nanoparticles. Congrès Français sur les Aérosols - CFA. January 2022. Paris, France.
+  ![poster_CFA2022_vdW-1](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/c3b357bb-b35e-4761-a532-767577c1e3ba)
 * [5] Morán, J., Poux, A., Cepeda, F., Escudero, F., Fuentes, F., Gallen, L., Riber, E., Yon, J. Coupling macroscale and nanoscale simulations of soot formation in a diffusion flame. Congrès Français sur les Aérosols - CFA. January 2022. Paris, France.
+  ![poster_CFA2022_NDF_v1-1](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/22963691-04c4-4e47-8cea-0f3d2a38b10c)
 * [6] Morán, J., Henry, C., Yon, J., and Kholghy, R., Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement. International Aerosol Conference. September 2022. Athens, Greece (Online). This is available in [YouTube](https://youtu.be/YA6rjobiuh0).
 [![Screenshot from 2023-04-30 18-35-54](https://user-images.githubusercontent.com/62391931/235381275-bba0d4ac-fe15-462c-b2d6-e7e717f35c01.png)](https://youtu.be/YA6rjobiuh0)
 

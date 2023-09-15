@@ -28,6 +28,7 @@ This site is made to share PDF files of presentations I have done during my care
 [![Screenshot from 2023-04-30 18-42-40](https://user-images.githubusercontent.com/62391931/235381517-b655e5cf-1ce8-43a3-a6dc-c4502ba006bf.png)](https://doi.org/10.13140/RG.2.2.28226.66248)
 * [9] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional particle size and charge distribution of nano/microparticles in an electrostatic precipitator". Congrès Français sur les Aérosols - CFA. March 2023, Paris, France. This presentation will be available in the future.
 ![Screenshot from 2023-04-30 23-09-36](https://user-images.githubusercontent.com/62391931/235405512-50e46bd3-88c0-4a34-b025-2f34804f2a57.png)
+* [10] Morán, J., Li, L., Ouyang, H., Qiao, Y., Olson, B.A., Hogan Jr, Christopher J., "The bidimensional size and charge distribution of sub- and supermicrometer particles in an electrostatic precipitator". European Aerosol Conference. September 2023, Malaga, Spain.
 
 ## 3. Seminars
 

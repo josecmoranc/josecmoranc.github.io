@@ -56,7 +56,9 @@ This site is made to share PDF files of presentations I have done during my care
 * [6] Morán, J., Henry, C., Yon, J., and Kholghy, R., Approximating the van der Waals interaction potentials between agglomerates and their coagulation enhancement. International Aerosol Conference. September 2022. Athens, Greece (Online). This is available on [YouTube](https://youtu.be/YA6rjobiuh0).
 [![Screenshot from 2023-04-30 18-35-54](https://user-images.githubusercontent.com/62391931/235381275-bba0d4ac-fe15-462c-b2d6-e7e717f35c01.png)](https://youtu.be/YA6rjobiuh0)
 * [7] Morán, J., and Kholghy, R., "Theoretical Derivation of Particle Collision Kernels from a First-Time-Passage Approach in the Diffusive Regime". AAAR Annual Conference, October 2023, Portland, OR, USA.
+![2023 AAAR - Coagulation_JMRK_44x31_001](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/9e409158-e679-4523-8fea-f9d8a433e000)
 * [8] Morán, J., Henry, C., Yon, J., and Kholghy, R., "Approximating the van der Waals Interaction Potentials between Agglomerates of Nanoparticles". AAAR Annual Conference, October 2023, Portland, OR, USA.
+![2023 AAAR - vdW_JMRK_44x31_001](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/967110a2-f170-4c64-807f-86ed4ef510a7)
 
 
 [Photo and video gallery](./photo-video.html)

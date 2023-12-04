@@ -3,7 +3,7 @@ Numerical codes for measurements, post-processing experimental data, and differe
 
 ## 1. Computational simulations
 
-* **FracVAL:** (old version Fortran, new version C++/Python) Software to generate 3d off-lattice agglomerates of particles. The code uses a particle-cluster agglomeration approach to generate an initial population of small clusters. Subsequently, uses a quasi-hierarchical cluster-cluster aggregation approach where fractal parameters are retained constant all along the generation process (see the figure below for an example). The original Fortran code is available in [Computer Physics Communications](https://doi.org/10.1016/j.cpc.2019.01.015). 
+* **FracVAL:** (original version Fortran, new version C++/Python) Software to generate 3d off-lattice agglomerates of particles. The code uses a particle-cluster agglomeration approach to generate an initial population of small clusters. Subsequently, uses a quasi-hierarchical cluster-cluster aggregation approach where fractal parameters are retained constant all along the generation process (see the figure below for an example). The original Fortran code is available in [Computer Physics Communications](https://doi.org/10.1016/j.cpc.2019.01.015). 
     - An user manual is [available here](https://doi.org/10.13140/RG.2.2.17240.32007).  
     - A new version of FracVAL combining C++/Python with a [GitLab repository](https://gitlab.com/jmoranc1/fracval_cpp), and extending its capabilities is currently being developed.
 [![Figure02](https://user-images.githubusercontent.com/62391931/235360986-4cb3dbbd-bed3-4089-9630-d4fc0001f6e7.png)](https://doi.org/10.1016/j.cpc.2019.01.015)

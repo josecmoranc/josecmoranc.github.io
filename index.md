@@ -101,7 +101,7 @@ I have contributed to the organization of a few research conferences with partic
 We cannot make a research website without a gallery of pictures and videos! This is available on the [following page](./photo-video.html).
 
 ## 7. Acknowledgment
-I would like to thank all the people I have worked with through my career, including the professors and the people with whom I shared a space for living and may not be present in these pictures below. Thank you all! :)
+I would like to thank all the people I have worked with through my career, including the professors and the people with whom I shared a space for living and may not be present in these pictures below. Thank you all!
 ![Thanks](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/e61d50a1-21a0-4dce-ac54-f372f1e148c8)
 
 ## 8. Contact

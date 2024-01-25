@@ -16,7 +16,7 @@ The purpose of this site is to share teaching and tutorial material that may be 
 
 ## 2. Teaching material
 
-* Travaux dirigé thermochimie (T1 - INSA de Rouen, France) : évolution d'une réaction, équilibre [disponible sure YouTube](https://youtu.be/vHdSyzvC_l4)
+* Travaux dirigé thermochimie (T1 - INSA de Rouen, France) : évolution d'une réaction, équilibre [disponible sur YouTube](https://youtu.be/vHdSyzvC_l4)
 
 [Scientific Presentations](./presentations.html)
 

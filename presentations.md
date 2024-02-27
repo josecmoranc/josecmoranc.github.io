@@ -40,6 +40,7 @@ This site is made to share PDF files of presentations I have done during my care
 * [4] Morán, J., and Hogan, C., “Aerosol Technology: Electrostatic particle filtration to improve air quality”. Seminar (invited) for the Department of Industrial Engineering, Universidad Federico Santa Marı́a, November 2022. Valparaiso, Chile.
 * [5] Wang, L., Morán, J., Yang, M., Olson, B. A., Hogan, C., and Torremorell, M., “Multidisciplinary research in engineering and medicine for sustainability and environment: Indoor aerosol virus transmission”. Seminar (invited) for Universidad de Magallanes, August 2023. Magallanes, Chile (online).
 * [6] Morán, J., Olson, B. A., and Hogan, C., “Measuring the size and charges of aerosol particles from an electrostatic precipitator”. Seminar (invited) for high school physics teachers from Minnesota participating in STEM program. University of Minnesota, August 2023. Minneapolis, USA.
+* [7] Morán, J., “Aerosol and interfaces”. Seminar (invited). University of Ottawa, January 2024. Ottawa, Canada.
 
 
 ## 4. Posters

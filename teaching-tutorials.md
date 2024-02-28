@@ -16,6 +16,8 @@ The purpose of this site is to share teaching and tutorial material that may be 
 
 ## 2. Teaching material
 
+* Lecture about Brownian Dynamics (ME-8111, University of Minnesota)
+[![Screenshot from 2024-02-28 09-14-49](https://github.com/josecmoranc/josecmoranc.github.io/assets/62391931/babce11d-c7e7-4748-8923-4949a57242d9)](https://github.com/josecmoranc/josecmoranc.github.io/blob/main/Lectures/2024-02-27%20Brownian%20Dynamics_v01.pdf)
 * Travaux dirigé thermochimie (T1 - INSA de Rouen, France) : évolution d'une réaction, équilibre [disponible sur YouTube](https://youtu.be/vHdSyzvC_l4)
 
 [Scientific Presentations](./presentations.html)

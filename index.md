@@ -4,7 +4,7 @@ layout: default
 
 # Aerosol Technology
 
-This research consists in understanding particle synthesis methods (e.g. flame reactor or spark-ablation), particle properties (e.g. size, morphology, chemical composition, and electric charge) as well as the mechanisms explaining their formation in the gas phase (nucleation, surface growth, oxidation, and coagulation), and processing (e.g. sampling, filtration) to develop technological applications. Such technological applications involve catalyzers, plasmonic materials for health treatment, sensors, coatings, drug-delivery carriers, among others.
+My research consists of understanding particle synthesis methods (e.g. flame reactor), particle properties (e.g. size, morphology, chemical composition, and electric charge) as well as the mechanisms explaining their formation in the gas phase (nucleation, surface growth, oxidation, and coagulation), and processing (e.g. sampling, filtration) to develop technological applications. Such technological applications involve catalyzers, plasmonic materials for health treatment, sensors, coatings, drug-delivery carriers, among others.
 
 ## 1. About me and my research contributions
 
